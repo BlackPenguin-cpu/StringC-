@@ -1,0 +1,3 @@
+﻿  String.cpp
+C:\Users\이성민\StringC-\StringC++\StringC++\String.cpp(12,24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StringC++.vcxproj -> C:\Users\이성민\StringC-\StringC++\x64\Debug\StringC++.exe
